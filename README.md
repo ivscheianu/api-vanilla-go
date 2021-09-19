@@ -1,2 +1,2 @@
-# api-vanilla-go
- REST API in go
+# Exploring go world
+### Created a rest api using plain Go
